@@ -4,3 +4,8 @@
 
 .md => Markdown
 
+[ ]  square brackets 
+
+( )  parentheses
+
+![photo](01.jpg)
